@@ -65,5 +65,6 @@ I am always open to discussing innovative projects at the intersection of **Heal
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneeth-mohan)
 
+
 ---
 <p align="right"><i>Last Updated:  2026</i></p>
