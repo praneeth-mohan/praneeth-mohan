@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Professional Overview
-I am a **Bachelor of Pharmacy (B. Pharm) candidate** currently pursuing my degree at the **Avanthi Institute of Pharmaceutical Sciences**. My professional identity is defined by a **"bridge" approach**, combining traditional clinical knowledge with technical software development skills to build the future of Digital Health.
+I [ Amalapurapu Praneeth Mohan ]am a **Bachelor of Pharmacy (B. Pharm) candidate** currently pursuing my degree at the **Avanthi Institute of Pharmaceutical Sciences**. My professional identity is defined by a **"bridge" approach**, combining traditional clinical knowledge with technical software development skills to build the future of Digital Health.
 
 I specialize in architecting **hybrid AI systems** and clinical informatics solutions. My goal is to transform complex pharmaceutical data into intuitive, safety-first software platforms that serve both medical professionals and patients.
 
@@ -58,13 +58,13 @@ Overseeing the strategic technical direction for app development projects. I man
 
 ## 🤝 Connect 
 
+**Email:** [praneethmohan.9@gmail.com](mailto:praneethmohan.9@gmail.com)
+**LinkedIn:** [www.linkedin.com/in/praneeth-mohan](https://www.linkedin.com/in/praneeth-mohan)
+
 I am always open to discussing innovative projects at the intersection of **Health-Tech** and **Systems Architecture**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/praneeth-mohan)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneeth-mohan)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praneeth-mohan)
 
-
 ---
-<p align="right"><i>Last Updated:  2026</i></p>
+<p align="right"><i>Last Updated: 2026</i></p>
