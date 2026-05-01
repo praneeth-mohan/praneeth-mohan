@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 Professional Overview
-I [ **Amalapurapu Praneeth Mohan** ]am a **Bachelor of Pharmacy (B. Pharm) candidate** currently pursuing my degree at the **Avanthi Institute of Pharmaceutical Sciences**. My professional identity is defined by a **"bridge" approach**, combining traditional clinical knowledge with technical software development skills to build the future of Digital Health.
+I  **[ Amalapurapu Praneeth Mohan ]** am a **Bachelor of Pharmacy (B. Pharm) candidate** currently pursuing my degree at the **Avanthi Institute of Pharmaceutical Sciences**. My professional identity is defined by a **"bridge" approach**, combining traditional clinical knowledge with technical software development skills to build the future of Digital Health.
 
 I specialize in architecting **hybrid AI systems** and clinical informatics solutions. My goal is to transform complex pharmaceutical data into intuitive, safety-first software platforms that serve both medical professionals and patients.
 
