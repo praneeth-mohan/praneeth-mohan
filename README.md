@@ -59,6 +59,7 @@ Overseeing the strategic technical direction for app development projects. I man
 ## 🤝 Connect 
 
 **Email:** [praneethmohan.9@gmail.com](mailto:praneethmohan.9@gmail.com)
+
 **LinkedIn:** [www.linkedin.com/in/praneeth-mohan](https://www.linkedin.com/in/praneeth-mohan)
 
 I am always open to discussing innovative projects at the intersection of **Health-Tech** and **Systems Architecture**.
