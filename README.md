@@ -32,11 +32,23 @@ I maintain a high level of proficiency in modern development environments, using
 
 ### **4. Integrated Systems Architecture**
 
-As the **Chief Systems Architect of [MediGuard AI](https://github.com/praneeth-mohan/MediGuard-AI)**, I lead the engineering of high-fidelity health-tech stacks designed to bridge the gap between complex pharmaceutical logic and seamless user experiences. My primary focus is solving the "AI hallucination" problem by integrating the **openFDA API** to source data directly from official regulatory repositories. . I specialize in building minimalist, "consulting-style" interfaces that remain consistent across Web, Android, and Windows platforms. This architecture prioritizes noise-filtered clinical intelligence, providing healthcare professionals with a reliable, high-performance tool for drug discovery and safety audits where data accuracy is non-negotiable.
-
-Additionally, as a **Developer at [DriveShield](https://github.com/praneeth-mohan/DriveShield)**, I am developing a specialized prototype for a smart emergency alert system aimed at drastically reducing rescue response times. **The project addresses the critical "golden hour" after a vehicle accident** by enabling a manual SOS activation protocol that works even when victims are disoriented. The technical architecture integrates **GPS real-time tracking** with **GSM/LTE communication** to ensure that precise location data is transmitted to hospitals, police, and fire departments simultaneously, even in remote areas. A core component of this prototype is its robust security layer, featuring **17-character VIN-based authentication** to verify vehicle identity. By combining Advanced Driver Assistance Systems (ADAS) logic with a cloud-synchronized mobile application, DriveShield serves as a vital safety bridge designed to improve survival rates through immediate, reliable emergency connectivity.
 
 
+As the **Chief Systems Architect of [MediGuard AI](https://github.com/praneeth-mohan/MediGuard-AI)**
+
+*   I lead the engineering of high-fidelity health-tech stacks designed to bridge the gap between complex pharmaceutical logic and seamless user experiences. 
+*   My primary focus is solving the "AI hallucination" problem by integrating the **openFDA API** to source data directly from official regulatory repositories.
+*   I specialize in building minimalist, "consulting-style" interfaces that remain consistent across Web, Android, and Windows platforms.
+     Bridging the gap between raw data and life-saving insights, this architecture delivers noise-filtered clinical intelligence through a high-performance interface—engineered for zero-error drug discovery and safety audits where accuracy isn't just a feature, it's a mandate.
+
+
+Additionally, as a **Developer at [DriveShield](https://github.com/praneeth-mohan/DriveShield)**
+
+*   **I am developing a specialized prototype for a smart emergency alert system aimed at drastically reducing rescue response times.** 
+*   **The project addresses the critical "golden hour" after a vehicle accident** by enabling a manual SOS activation protocol that works even when victims are disoriented.
+*   The technical architecture integrates **GPS real-time tracking** with **GSM/LTE communication** to ensure that precise location data is transmitted to hospitals, police, and fire departments simultaneously, even in remote areas.
+*   A core component of this prototype is its robust security layer, featuring **17-character VIN-based authentication** to verify vehicle identity.
+*  By combining Advanced Driver Assistance Systems (ADAS) logic with a cloud-synchronized mobile application, DriveShield serves as a vital safety bridge designed to improve survival rates through immediate, reliable emergency connectivity.
 ---
 
 ## 🛠 Tech Stack
