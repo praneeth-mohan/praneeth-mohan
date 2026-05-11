@@ -68,10 +68,31 @@ Additionally, as a **Developer at [DriveShield](https://github.com/praneeth-moha
 A comprehensive health intelligence platform published on Uptodown. It focuses on **Clinical Informatics**, using AI to cross-reference patient data with drug safety standards to prevent medication errors.
 
 ### 🚗 **DriveShield** |  **Developer**
-An innovative emergency response system. This project integrates crash detection sensors with real-time location sharing to reduce response times during critical medical incidents.
+An innovative emergency response system. This is a prototype project which integrates crash detection sensors with real-time location sharing to reduce response times during critical medical incidents.
 
-### 💠 **VitaCode Organization** | *Executive Leadership*
-Overseeing the strategic technical direction for app development projects. I manage a team of developers and designers to ensure high-performance code and cohesive system architecture.
+# 💠 VitaCode Organization | Executive Leadership
+
+### "Where code meets cure. Building pharma tech, breaking limits, saving lives." 💊⚡
+
+---
+
+## 🚀 Strategic Direction
+Overseeing the technical evolution of high-impact pharma-tech solutions. I lead a lean, elite squad of 5 developers and designers, bridging the gap between complex system architecture and high-performance code to drive innovation in healthcare.
+
+*   **Current Focus:** High-performance systems & Life-saving logic.
+*   **Team Size:** 5 Human Beings (and several overworked bots).
+*   **Goal:** Breaking limits, one semicolon at a time.
+
+---
+
+## ⚖️ The "Good Luck With That" Clause
+
+Before you even think about calling a lawyer, please note: **VitaCode isn't even trademarked yet.** 
+
+We are a small team of five working out of a digital lab. There are no corporate towers to seize, no offshore accounts, and no fancy legal department. If you sue us, the only thing you’ll win is a stack of empty espresso pods and a few GitHub issues that we haven't closed yet. 
+
+**Seriously, don't sue us—you'd basically be suing a vibe.** 😂
+
 
 ---
 
