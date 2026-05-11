@@ -31,7 +31,9 @@ I maintain a high level of proficiency in modern development environments, using
 * **Systems Design:** Expert-level UI/UX prototyping in **Figma** to ensure medical tools are accessible and user-friendly.
 
 ### **4. Integrated Systems Architecture**
-As the **Chief Systems Architect at VitaCode**, I lead the development of integrated health-tech stacks. I ensure that backend pharmaceutical logic (dosage calculations, interaction checks) is perfectly synchronized with modern, minimalist frontend interfaces.
+As the **Chief Systems Architect of MediGuard AI**, I lead the development of **integrated health-tech stacks**, ensuring that complex pharmaceutical logic  with modern, minimalist frontend interfaces. I specialize in building high-fidelity systems that bridge the gap between regulatory data accuracy, robust automotive security, and seamless user experiences.  perfectly synchronized with modern, minimalist frontend interfaces.
+
+Additionally, as a **Developer at DriveShield**, I am engineering a prototype for high-security automotive and emergency response systems, focusing on robust authentication and real-time data integration.
 
 ---
 
