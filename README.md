@@ -75,16 +75,16 @@ An innovative emergency response system. This is a prototype project which integ
 ## "Where code meets cure. Building pharma tech, breaking limits, saving lives." 💊⚡
 
 
-## 🚀 Strategic Direction
+**🚀 Strategic Direction**
+
 Overseeing the technical evolution of high-impact pharma-tech solutions. I lead a lean, elite squad of 5 developers and designers, bridging the gap between complex system architecture and high-performance code to drive innovation in healthcare.
 
 *   **Current Focus:** High-performance systems & Life-saving logic.
 *   **Team Size:** 5 Human Beings (and several overworked bots).
 *   **Goal:** Breaking limits, one semicolon at a time.
 
----
 
-## ⚖️ The "Good Luck With That" Clause
+**⚖️ The "Good Luck With That" Clause**
 
 Before you even think about calling a lawyer, please note: **VitaCode isn't even trademarked yet.** 
 
