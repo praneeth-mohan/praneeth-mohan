@@ -70,11 +70,10 @@ A comprehensive health intelligence platform published on Uptodown. It focuses o
 ### 🚗 **DriveShield** |  **Developer**
 An innovative emergency response system. This is a prototype project which integrates crash detection sensors with real-time location sharing to reduce response times during critical medical incidents.
 
-# 💠 VitaCode Organization | Executive Leadership
+### 💠 VitaCode Organization | Executive Leadership
 
-### "Where code meets cure. Building pharma tech, breaking limits, saving lives." 💊⚡
+## "Where code meets cure. Building pharma tech, breaking limits, saving lives." 💊⚡
 
----
 
 ## 🚀 Strategic Direction
 Overseeing the technical evolution of high-impact pharma-tech solutions. I lead a lean, elite squad of 5 developers and designers, bridging the gap between complex system architecture and high-performance code to drive innovation in healthcare.
