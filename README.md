@@ -31,9 +31,10 @@ I maintain a high level of proficiency in modern development environments, using
 * **Systems Design:** Expert-level UI/UX prototyping in **Figma** to ensure medical tools are accessible and user-friendly.
 
 ### **4. Integrated Systems Architecture**
-As the **Chief Systems Architect of [MediGuard AI](https://github.com/praneeth-mohan/MediGuard-AI)**, I lead the development of integrated health-tech stacks, ensuring that complex pharmaceutical logic—such as dosage calculations—is perfectly synchronized with modern, minimalist frontend interfaces. I specialize in building high-fidelity systems that bridge the gap between regulatory data accuracy and seamless user experiences.
 
-Additionally, as a **Developer at [DriveShield](https://github.com/praneeth-mohan/DriveShield)**, I am engineering a prototype for high-security automotive and emergency response systems, focusing on robust authentication and real-time data integration.
+As the **Chief Systems Architect of [MediGuard AI](https://github.com/praneeth-mohan/MediGuard-AI)**, I lead the engineering of high-fidelity health-tech stacks designed to bridge the gap between complex pharmaceutical logic and seamless user experiences. My primary focus is solving the "AI hallucination" problem by integrating the **openFDA API** to source data directly from official regulatory repositories. . I specialize in building minimalist, "consulting-style" interfaces that remain consistent across Web, Android, and Windows platforms. This architecture prioritizes noise-filtered clinical intelligence, providing healthcare professionals with a reliable, high-performance tool for drug discovery and safety audits where data accuracy is non-negotiable.
+
+Additionally, as a **Developer at [DriveShield](https://github.com/praneeth-mohan/DriveShield)**, I am developing a specialized prototype for a smart emergency alert system aimed at drastically reducing rescue response times. **The project addresses the critical "golden hour" after a vehicle accident** by enabling a manual SOS activation protocol that works even when victims are disoriented. The technical architecture integrates **GPS real-time tracking** with **GSM/LTE communication** to ensure that precise location data is transmitted to hospitals, police, and fire departments simultaneously, even in remote areas. A core component of this prototype is its robust security layer, featuring **17-character VIN-based authentication** to verify vehicle identity. By combining Advanced Driver Assistance Systems (ADAS) logic with a cloud-synchronized mobile application, DriveShield serves as a vital safety bridge designed to improve survival rates through immediate, reliable emergency connectivity.
 
 
 ---
@@ -43,6 +44,7 @@ Additionally, as a **Developer at [DriveShield](https://github.com/praneeth-moha
 **Languages:** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 
 **Tools & Design:** ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+
 
 ---
 
