@@ -64,10 +64,10 @@ Additionally, as a **Developer at [DriveShield](https://github.com/praneeth-moha
 
 ## 📁 Key Project Portfolio
 
-### 🛡️ **MediGuard AI** | *Lead Systems Architect*
+### 🛡️ **MediGuard AI** | **Chief Systems Architect** 
 A comprehensive health intelligence platform published on Uptodown. It focuses on **Clinical Informatics**, using AI to cross-reference patient data with drug safety standards to prevent medication errors.
 
-### 🚗 **DriveShield** | *Product Designer & Developer*
+### 🚗 **DriveShield** |  **Developer**
 An innovative emergency response system. This project integrates crash detection sensors with real-time location sharing to reduce response times during critical medical incidents.
 
 ### 💠 **VitaCode Organization** | *Executive Leadership*
