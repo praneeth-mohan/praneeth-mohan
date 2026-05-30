@@ -13,7 +13,7 @@ I specialize in architecting **hybrid AI systems** and clinical informatics solu
 ## 🎓 Academic & Technical Profile
 
 ### **1. Bachelor of Pharmacy (B. Pharm) Foundation**
-As a dedicated student in my third year of the B. Pharm program, I have built a rigorous academic foundation in the full lifecycle of drug development. This includes:
+As a dedicated student in my Fourth   year of the B. Pharm program, I have built a rigorous academic foundation in the full lifecycle of drug development. This includes:
 * **Pharmacology & Toxicology:** Understanding drug mechanisms and their effects on biological systems.
 * **Pharmacognosy:** The study of medicinal drugs derived from plants and natural sources.
 * **Pharmaceutical Analysis:** Ensuring the potency and purity of chemical substances.
