@@ -109,5 +109,3 @@ I am always open to discussing innovative projects at the intersection of **Heal
 ---
 <p align="right"><i>Last Updated: 2026</i></p>
 
-[View Apitoria Internship Certificate](https://github.com/praneeth-mohan/praneeth-mohan/blob/main/Internship/Apitoria%20Intenship.jpg)
-![Apitoria Internship Certificate](https://raw.githubusercontent.com/praneeth-mohan/praneeth-mohan/main/Internship/Apitoria%20Intenship.jpg)
