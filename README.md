@@ -9,7 +9,13 @@ I  **[ Amalapurapu Praneeth Mohan ]** am a **Bachelor of Pharmacy (B. Pharm) can
 I specialize in architecting **hybrid AI systems** and clinical informatics solutions. My goal is to transform complex pharmaceutical data into intuitive, safety-first software platforms that serve both medical professionals and patients.
 
 ---
+<p align="center">
+<a href="https://praneeth-mohan.github.io/praneeth-mohan/">
+  <img src="portfolio-button.svg" width="440" alt="Visit my portfolio">
+</a>
+</p>     
 
+---
 ## 🎓 Academic & Technical Profile
 
 ### **1. Bachelor of Pharmacy (B. Pharm) Foundation**
